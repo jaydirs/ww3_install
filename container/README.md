@@ -16,7 +16,7 @@ docker pull dspelaez/ww3-docker:latest
 In order to build the image by yourself, just type:
 
 ```
-docker build -t ww3-docker .
+docker build -t ww3-docker
 ```
 
 Once the image have been created, you must create the container, to run it
